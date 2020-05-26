@@ -2,3 +2,4 @@ AIandML
 Data science
 Advanced programming - c/c++/python
 CSE
+python progrmming can easy and simple to learn
